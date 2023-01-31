@@ -7,5 +7,5 @@
    <a href="https://www.linkedin.com/in/marina-nicolai-b627b1128/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 </p>   
 <div align="center">
-<h3>Marina Nicolai | 💻 JS Developer | 🛸 Fredericksburg, VA </h3>
+<h3>Marina Nicolai | 💻 REACT.JS Developer | 🛸 Montross, VA </h3>
 </div>

@@ -1,11 +1,14 @@
-<div align="center">
-   <h1>Hi there, I'm <a href="https://marinanicolai.dev">Marina</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
-   
-   <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
-</div>
-<p align='center'>
-   <a href="https://www.linkedin.com/in/marina-nicolai-b627b1128/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
-</p>   
-<div align="center">
-<h3>Marina Nicolai | 💻 React.js Developer | 🛸 Virginia,USA </h3>
-</div>
+# 👋🏼 Hi, I’m Marina!
+
+🌊 I'm a passionate front-end developer who's on a mission to craft captivating digital experiences. 
+
+Before diving into tech, I wore many hats in marketing, merchandising, and sales, where I refined my ability to connect with people and understand their needs. However, I yearned for a career that allowed me to channel my creativity and problem-solving skills into creating visually stunning and user-friendly web interfaces.
+
+🌟 I'm truly excited about the front-end realm of tech and the endless possibilities it offers for enhancing user experiences and making the digital world more engaging.
+
+
+## 💼 My Tech Toolbox
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,bootstrap,netlify,aws,docker,dotnet)
+
+### 📫 Let's Connect
+If you'd like to get in touch or learn more about my journey and experiences, please don't hesitate to reach out!

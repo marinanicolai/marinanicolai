@@ -8,7 +8,7 @@ Before diving into tech, I wore many hats in marketing, merchandising, and sales
 
 
 ## 💼 My Tech Toolbox
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,bootstrap,netlify,aws,docker,dotnet)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,bootstrap,netlify,aws,docker,dotnet,python)
 
 ### 📫 Let's Connect
 If you'd like to get in touch or learn more about my journey and experiences, please don't hesitate to reach out!

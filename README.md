@@ -9,7 +9,7 @@ Before diving into tech, I wore many hats in marketing, merchandising, and sales
 
 ## 💼 My Tech Toolbox
 
-![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,bootstrap,netlify,aws,docker,dotnet,python)
+![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,bootstrap,netlify,aws,docker,dotnet,python,astro)
 
 ### 🤖 AI/ML Tools
 <p>

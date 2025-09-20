@@ -1,10 +1,12 @@
 # 👋🏼 Hi, I’m Marina!
 
-🌊 I'm a passionate front-end developer who's on a mission to craft captivating digital experiences. 
+🌊 I’m a **full-stack web developer** and **AI/ML engineer in progress** with 9+ years of experience building secure, scalable, and data-driven applications. My passion lies in crafting engaging, responsive front-end interfaces while ensuring they seamlessly connect with reliable, high-performance back-end systems.
 
-Before diving into tech, I wore many hats in marketing, merchandising, and sales, where I refined my ability to connect with people and understand their needs. However, I yearned for a career that allowed me to channel my creativity and problem-solving skills into creating visually stunning and user-friendly web interfaces.
+💡 My career spans developing **ReactJS/TypeScript dashboards, ASP.NET Core microservices, and real-time kiosk software** for enterprise and federal clients, including USPS. I thrive at the intersection of **frontend usability and backend reliability**, bringing together creativity, problem-solving, and technical rigor.
 
-🌟 I'm truly excited about the front-end realm of tech and the endless possibilities it offers for enhancing user experiences and making the digital world more engaging.
+🚀 Alongside front-end development with **React, Tailwind, and Bootstrap**, I have strong experience with **Node.js, Python, SQL, Redis, Docker/Kubernetes, and AWS cloud services**. Currently, I’m expanding into **AI/ML engineering**, applying **Python, TensorFlow, and PyTorch** to build intelligent, data-driven solutions.
+
+🌟 What excites me most is creating digital experiences that are not only visually engaging but also scalable, secure, and impactful for real-world users.
 
 
 ## 💼 My Tech Toolbox

@@ -26,10 +26,11 @@
 
 ## ☁️ Infrastructure
 
-[![Deployed on Fly.io](https://img.shields.io/badge/Deployed%20on-Fly.io-8a63d2?logo=flydotio&logoColor=white)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![AWS](https://skillicons.dev/icons?i=aws)
+![Fly.io](https://img.shields.io/badge/Fly.io-Deploy-8A63D2?logo=flydotio&logoColor=white)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+
 
 
 

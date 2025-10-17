@@ -20,13 +20,16 @@
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Astro](https://skillicons.dev/icons?i=astro)
-[![Deployed on Fly.io](https://img.shields.io/badge/Deployed%20on-Fly.io-8a63d2?logo=flydotio&logoColor=white)](https://YOUR-APP-NAME.fly.dev)
+
+## ☁️ Infrastructure
+
+[![Deployed on Fly.io](https://img.shields.io/badge/Deployed%20on-Fly.io-8a63d2?logo=flydotio&logoColor=white)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 
 

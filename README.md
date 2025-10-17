@@ -26,6 +26,8 @@
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Astro](https://skillicons.dev/icons?i=astro)
+[![Deployed on Fly.io](https://img.shields.io/badge/Deployed%20on-Fly.io-8a63d2?logo=flydotio&logoColor=white)](https://YOUR-APP-NAME.fly.dev)
+
 
 
 ### 🤖 AI/ML Tools

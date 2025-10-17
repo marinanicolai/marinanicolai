@@ -23,7 +23,10 @@
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Astro](https://skillicons.dev/icons?i=astro)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
 
 
 ## ☁️ Infrastructure
@@ -32,6 +35,11 @@
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
+
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+
+
 
 
 

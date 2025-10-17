@@ -23,6 +23,8 @@
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Astro](https://skillicons.dev/icons?i=astro)
+![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)
+
 
 ## ☁️ Infrastructure
 

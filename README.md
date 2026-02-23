@@ -9,13 +9,13 @@
 🌟 What excites me most is creating digital experiences that are not only visually engaging but also scalable, secure, and impactful for real-world users.
 
 ---
-
 ## 💼 My Tech Toolbox
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Python](https://skillicons.dev/icons?i=python)
 ![React](https://skillicons.dev/icons?i=react)
 ![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)
 ![Astro](https://skillicons.dev/icons?i=astro)
@@ -40,6 +40,7 @@
 ![Fly.io](https://img.shields.io/badge/Fly.io-8A63D2?logo=flydotio&logoColor=white)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Octopus Deploy](https://img.shields.io/badge/Octopus_Deploy-2F93E0?logo=octopusdeploy&logoColor=white)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -48,7 +49,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ---
-
 ### 🤖 AI/ML Tools
 
 <p>
